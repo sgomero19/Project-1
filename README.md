@@ -1,6 +1,6 @@
 # Project-1 || Group 8
 Problem statement: which stock should group 8 invest in area of Aero Space and Defense?
-analyze 1 year of history of 3 stocks: RTX (Raytheon), NOC (Northrop Grumman), LMT (Lookheed)
+analyze 5 years of history of 3 stocks: RTX (Raytheon), NOC (Northrop Grumman), LMT (Lookheed)
 
 
 analyze:
@@ -12,3 +12,5 @@ analyze:
 3. The total stock volume of the stock
 
 4. create a trending visualization to conclude which stock should be invested.
+
+instead of qurt may be weekly or monthly or annually
