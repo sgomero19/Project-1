@@ -13,8 +13,11 @@ Sources:
 
 analyze:
 
-1.	Annually, Quarterly, monthly change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
-2.	The percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
-3.	The total stock volume of the stock, 50-day volume trading average of 400k or more
-4.	measure the ROC (Rate of Change = [(Current Value of Stock/Previous Value of Stock) – 1] * 100.) and compare to the index S&P500 in the same period
-5.	create a trending visualization to conclude which stock should be invested.
+
+1.	The total stock volume of the stock, 
+2.	measure the volatility of each stock per weekly, monthly
+3.	measure the ROC (Rate of Change = [(Current Value of Stock/Previous Value of Stock) – 1] * 100.) and compare to the index S&P500 in the same period
+5.	create a trending visualization to conclude which stock should be invested, stock must meet all 3 requirements:
+     +50-day volume trading average of 400k or more
+  	 +volatility is less than 15%
+  	 +ROC (gain) must be higher than S&P500
