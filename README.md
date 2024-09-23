@@ -19,5 +19,5 @@ analyze:
 3.	measure the ROC (Rate of Change = [(Current Value of Stock/Previous Value of Stock) – 1] * 100.) and compare to the index S&P500 in the same period
 5.	create a trending visualization to conclude which stock should be invested, stock must meet all 3 requirements:
      +50-day volume trading average of 400k or more
-  	 +volatility is less than 15%
+  	 +volatility is less than 20%
   	 +ROC (gain) must be higher than S&P500
